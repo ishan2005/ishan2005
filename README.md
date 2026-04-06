@@ -158,6 +158,16 @@ fun_fact: "I debug code the same way I do Taekwondo - with precision and a lot o
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ishan2005&theme=radical&border=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&border_radius=15" alt="GitHub Streak"/>
+
+  <br/>
+  <br/>
+
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishan2005/ishan2005/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishan2005/ishan2005/output/github-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/ishan2005/ishan2005/output/github-snake.svg">
+  </picture>
 </div>
 
 <br/>

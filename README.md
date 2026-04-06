@@ -16,13 +16,13 @@
     <a href="mailto:ishanagrawal.mzp12@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://www.linkedin.com/in/ishan-agrawal">
+    <a href="mailto:ishanagrawal.mzp12@gmail.com">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://codeforces.com/profile/ishan2005">
+    <a href="mailto:ishanagrawal.mzp12@gmail.com">
       <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
     </a>
-    <a href="https://www.codechef.com/users/ishan2005">
+    <a href="mailto:ishanagrawal.mzp12@gmail.com">
       <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
     </a>
   </p>
@@ -51,13 +51,7 @@ roles:
 currently:
   - Building AI-powered applications & real-time collaborative tools
   - Deep-diving into Machine Learning & System Design
-  - Solving algorithmic challenges on Codeforces & CodeChef
-
-achievements:
-  - International Taekwondo Championship - Silver Medal
-  - CodeChef Max Rating: 1305
-  - Codeforces Max Rating: 1108
-  - 95% in Class XII | 94% in Class X
+  - Solving algorithmic challenges
 
 fun_fact: "I debug code the same way I do Taekwondo - with precision and a lot of kicks"
 ```
@@ -136,50 +130,12 @@ fun_fact: "I debug code the same way I do Taekwondo - with precision and a lot o
 
 <br/>
 
+<!-- GITHUB TROPHIES -->
+## 🏅 &nbsp;GitHub Trophies
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Capital Cortex</h3>
-        <p align="center">
-          AI-powered option risk analysis, hedging strategies &amp; real-time stock analysis platform built with TypeScript
-        </p>
-        <p align="center">
-          <a href="https://capital-cortex.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-          <a href="https://github.com/ishan2005/capital-cortex"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">CollabDev</h3>
-        <p align="center">
-          Google Docs-style real-time collaborative code editor with live cursors, syntax highlighting for 15+ languages &amp; integrated terminal
-        </p>
-        <p align="center">
-          <a href="https://github.com/ishan2005/CollabDev"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">NeuroVision</h3>
-        <p align="center">
-          AI image analysis platform — object detection, scene classification &amp; natural language descriptions using custom CNN models
-        </p>
-        <p align="center">
-          <a href="https://github.com/ishan2005/NeuroVision"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Shankar Electronics</h3>
-        <p align="center">
-          Full-featured inventory management system built for Samsung SmartPlaza with real-time stock tracking &amp; analytics
-        </p>
-        <p align="center">
-          <a href="https://github.com/ishan2005/shankar-electronics-inventory"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ishan2005&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="ishan2005" />
+  </a>
 </div>
 
 <br/>
@@ -194,68 +150,6 @@ fun_fact: "I debug code the same way I do Taekwondo - with precision and a lot o
 
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan2005&layout=donut-vertical&theme=radical&border_color=6C63FF&border_radius=15&langs_count=8" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishan2005&theme=react-dark&bg_color=141321&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&border_radius=15" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- COMPETITIVE PROGRAMMING -->
-## 🏅 &nbsp;Competitive Programming
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /><br/>
-        <b>Max Rating: 1305</b><br/>
-        <sub>Algorithmic Problem Solving</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /><br/>
-        <b>Max Rating: 1108</b><br/>
-        <sub>Data Structures &amp; Algorithms</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /><br/>
-        <b>Problem Solver</b><br/>
-        <sub>Interview Preparation</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- ACHIEVEMENTS -->
-## 🏆 &nbsp;Achievements &amp; Awards
-
-<div align="center">
-
-| Achievement | Description |
-|:---:|:---|
-| **International Taekwondo** | Silver Medal — International Taekwondo Championship |
-| **Academic Excellence** | 95% in Class XII Science · 94% in Class X |
-| **CodeChef** | Peak Rating **1305** — Competitive Programming |
-| **Codeforces** | Peak Rating **1108** — Algorithmic Contests |
-| **Open Source** | Building real-world applications deployed in production |
-
-</div>
-
-<br/>
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishan2005/ishan2005/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishan2005/ishan2005/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ishan2005/ishan2005/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 <br/>
@@ -279,7 +173,7 @@ fun_fact: "I debug code the same way I do Taekwondo - with precision and a lot o
   <a href="mailto:ishanagrawal.mzp12@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:agrawalishan2005@gmail.com">
+  <a href="mailto:ishanagrawal.mzp12@gmail.com">
     <img src="https://img.shields.io/badge/Alt_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -292,5 +186,5 @@ fun_fact: "I debug code the same way I do Taekwondo - with precision and a lot o
 </div>
 
 <div align="center">
-  <sub>Built with passion by <a href="https://github.com/ishan2005">Ishan Agrawal</a> · B.Tech CSE @ JIIT Noida</sub>
+  <sub>Built with passion by <a href="https://github.com/ishan2005">Ishan Agrawal</a></sub>
 </div>

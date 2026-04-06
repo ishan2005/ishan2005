@@ -1,7 +1,7 @@
 <![CDATA[<!-- HEADER -->
 <div align="center">
   
-  ![Header](./banner.png)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Ishan%20Agrawal&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=20" width="100%" />
 
   <!-- Animated Typing -->
   <a href="https://git.io/typing-svg">

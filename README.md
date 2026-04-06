@@ -138,12 +138,13 @@ fun_fact: "I debug code the same way I do Taekwondo - with precision and a lot o
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">📦 Shankar Electronics</h3>
+        <h3 align="center">🤝 MannMitra</h3>
         <p align="center">
-          Full-featured inventory management system built for Samsung SmartPlaza with real-time stock tracking &amp; analytics.
+          AI-powered mental health &amp; journaling platform with secure speech-to-text integration and insightful mood analytics.
         </p>
         <p align="center">
-          <a href="https://github.com/ishan2005/shankar-electronics-inventory"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+          <a href="https://mann-mitra-nr1m9cngt-ishan-agrawals-projects-ab70ae3b.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+          <a href="https://github.com/ishan2005/MannMitra"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
         </p>
       </td>
     </tr>
